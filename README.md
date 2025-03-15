@@ -1,4 +1,4 @@
-# Olá, sou a Leticia Pinheiro 👩‍💻
+# Olá, sou a Leticia Pinheiro ✨
 
 🎓 Estudo **Desenvolvimento de Software Multiplataforma** e estou sempre em busca de novos desafios no mundo da tecnologia.
 
